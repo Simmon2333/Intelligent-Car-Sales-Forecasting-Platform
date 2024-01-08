@@ -13,4 +13,4 @@
 智能汽车销量预测平台.pptx
 收尾报告
 
-可以通过下载release获得
+可以通过下载release获得，大概效果可看https://www.cnblogs.com/simmon/p/17952047
